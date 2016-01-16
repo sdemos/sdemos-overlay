@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<repositories version="1.0">
+    <repo priority="50" quality="experimental" status="unofficial">
+        <name>sdemos-overlay</name>
+        <description>sdemos's personal gentoo overlay</description>
+        <homepage>https://github.com/sdemos/sdemos-overlay</homepage>
+        <owner>
+            <name>Stephen Demos</name>
+            <email>stphndemos@gmail.com</email>
+        </owner>
+        <source type="git">https://github.com/sdemos/sdemos-overlay.git</source>
+    </repo>
+</repositories>
